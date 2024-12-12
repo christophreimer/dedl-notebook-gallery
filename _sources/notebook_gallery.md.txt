@@ -1,4 +1,0 @@
-cesm-lens-aws-cookbook
-cmip6-cookbook
-HRRR-AWS-cookbook
-radar-cookbook
